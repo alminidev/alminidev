@@ -1,7 +1,7 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">"<Hello World>"</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
 <!-- Presentation -->
@@ -13,9 +13,7 @@
   I am looking for my first job opportunity.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>More about me</summary>
+More about me
 
 - Working for several years in the graphics area, I started my studies in programming, initially focusing on Front-End.
 For my evolution as a Developer, I am starting a Degree in Systems Analysis and Development, various training, certifications and soon a POST TECH in SOFTWARE ARCHITECTURE.
@@ -23,10 +21,9 @@ In this area I work as a freelancer where I have knowledge in Java Script, Pytho
 I also use graphic design tools for image manipulation, user interface design, websites, logos and others.
 I would love to use my knowledge to solve problems.
 I am proactive, I have great ability to adapt to different learning situations and teamwork.
-</details>
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alminidesign/)
 
 <!-- GithubStats -->
