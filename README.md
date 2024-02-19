@@ -27,7 +27,7 @@ I am proactive, I have great ability to adapt to different learning situations a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alminidesign/)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![alminidev GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=transparent)
 
 <!-- Portfolio -->
 ## Portfolio:
