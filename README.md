@@ -8,7 +8,7 @@
 <p>
   Hi, I'm Almini! A passionate for tecnology.
 
-  I’m currently studying System Analysis and Development in Brazil <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  I’m currently studying System Analysis and Development!
 
   I am looking for my first job opportunity.
 </p>
@@ -17,9 +17,12 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+-- Working for several years in the graphics area, I started my studies in programming, initially focusing on Front-End.
+For my evolution as a Developer, I am starting a Degree in Systems Analysis and Development, various training, certifications and soon a POST TECH in SOFTWARE ARCHITECTURE.
+In this area I work as a freelancer where I have knowledge in Java Script, Python, HTML, CSS, Node.JS and React.JS.
+I also use graphic design tools for image manipulation, user interface design, websites, logos and others.
+I would love to use my knowledge to solve problems.
+I am proactive, I have great ability to adapt to different learning situations and teamwork.
 </details>
 
 <!-- Links -->
