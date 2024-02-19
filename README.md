@@ -15,9 +15,9 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>More about me</summary>
 
--- Working for several years in the graphics area, I started my studies in programming, initially focusing on Front-End.
+- Working for several years in the graphics area, I started my studies in programming, initially focusing on Front-End.
 For my evolution as a Developer, I am starting a Degree in Systems Analysis and Development, various training, certifications and soon a POST TECH in SOFTWARE ARCHITECTURE.
 In this area I work as a freelancer where I have knowledge in Java Script, Python, HTML, CSS, Node.JS and React.JS.
 I also use graphic design tools for image manipulation, user interface design, websites, logos and others.
@@ -26,10 +26,8 @@ I am proactive, I have great ability to adapt to different learning situations a
 </details>
 
 <!-- Links -->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alminidesign/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
