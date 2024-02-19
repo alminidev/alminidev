@@ -10,7 +10,7 @@
 
   I’m currently studying System Analysis and Development in Brazil <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity.
+  I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
