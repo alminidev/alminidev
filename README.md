@@ -25,7 +25,7 @@ I am proactive, I have great ability to adapt to different learning situations a
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alminidesign/)
-[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://alminidev@gmail.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](https://alminidev@gmail.com/)
 
 <!-- Portfolio -->
 ## Portfolio:
