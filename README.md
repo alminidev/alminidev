@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Almini! A passionate for tecnology.
+  Hi, I'm Alexandre Mieli Poletini (Almini)! A passionate for tecnology.
 
   I’m currently studying System Analysis and Development!
 
