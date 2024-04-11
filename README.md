@@ -15,13 +15,13 @@
 
 Mais sobre mim
 
-- Com uma trajetória de sucesso na indústria gráfica, embarquei em uma jornada de aprimoramento em programação, com foco inicial em Front-End. Atualmente, estou expandindo meus horizontes através de uma Graduação em Análise e Desenvolvimento de Sistemas e futuramente em uma Pós-graduação em Arquitetura de Software, além de constantes treinamentos e certificações.
+Com uma sólida base na indústria gráfica, embarquei em uma jornada de desenvolvimento pessoal e profissional na área de programação, com um foco inicial em Front-End. Atualmente, estou expandindo meus conhecimentos através de uma Graduação em Análise e Desenvolvimento de Sistemas e planejo continuar minha formação com uma Pós-graduação em Arquitetura de Software, além de buscar constantemente treinamentos e certificações relevantes.
 
-Como freelancer, trago uma expertise única em Java Script, Python, HTML, CSS, Node.js e React.js, combinada com sólidos conhecimentos em ferramentas de design gráfico. Essa fusão de habilidades me permite criar soluções inovadoras que integram design intuitivo e funcionalidade robusta.
+Como entusiasta da tecnologia e aspirante a desenvolvedor, estou me familiarizando com linguagens e ferramentas como JavaScript, Python, HTML, CSS, Node.js e React.js. Minha experiência em design gráfico me proporciona uma perspectiva única, permitindo-me entender a importância de uma interface bem projetada.
 
-Minha abordagem proativa e adaptável me permite enfrentar desafios com confiança, enquanto meu compromisso com a excelência técnica garante a entrega de resultados de alta qualidade. Sou um colaborador eficaz em equipes multidisciplinares, valorizando o bom relacionamento interpessoal e a comunicação clara.
+Minha abordagem é proativa e adaptável, o que me capacita a enfrentar novos desafios com determinação, enquanto meu compromisso com o aprendizado contínuo assegura que estou sempre buscando a excelência técnica. Valorizo o trabalho em equipe e acredito que um bom relacionamento interpessoal e comunicação eficaz são fundamentais para o sucesso em ambientes multidisciplinares.
 
-Estou em busca de oportunidades para aplicar minha paixão por resolver problemas e criar experiências digitais impactantes. Vamos construir algo incrível juntos?
+Estou em busca de oportunidades que me permitam aplicar minha paixão por aprender, resolver problemas e contribuir para a criação de experiências digitais significativas. Estou ansioso para colaborar e construir algo incrível juntos. Vamos conversar?
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
