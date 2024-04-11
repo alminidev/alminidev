@@ -6,21 +6,22 @@
 
 <!-- Presentation -->
 <p>
-  Hi, I'm Alexandre Mieli Poletini (Almini)! A passionate for tecnology.
+  Olá, Me chamo Alexandre Mieli Poletini (Almini)! 
+  
+  Atualmemte estou cursando Análise e Desenvolvimento de Sistemas!
 
-  I’m currently studying System Analysis and Development!
-
-  I'm looking for my first opportunity in the technology field, be it an internship or JR.
+  Procuro minha primeira oportunidade na área de tecnologia seja estágio ou JR.
 </p>
 
-More about me
+Mais sobre mim
 
-- Working for several years in the graphics area, I started my studies in programming, initially focusing on Front-End.
-For my evolution as a Developer, I am starting a Degree in Systems Analysis and Development, various training, certifications and soon a POST TECH in SOFTWARE ARCHITECTURE.
-In this area I work as a freelancer where I have knowledge in Java Script, Python, HTML, CSS, Node.JS and React.JS.
-I also use graphic design tools for image manipulation, user interface design, websites, logos and others.
-I would love to use my knowledge to solve problems.
-I am proactive, I have great ability to adapt to different learning situations and teamwork.
+- Com uma trajetória de sucesso na indústria gráfica, embarquei em uma jornada de aprimoramento em programação, com foco inicial em Front-End. Atualmente, estou expandindo meus horizontes através de uma Graduação em Análise e Desenvolvimento de Sistemas e futuramente em uma Pós-graduação em Arquitetura de Software, além de constantes treinamentos e certificações.
+
+Como freelancer, trago uma expertise única em Java Script, Python, HTML, CSS, Node.js e React.js, combinada com sólidos conhecimentos em ferramentas de design gráfico. Essa fusão de habilidades me permite criar soluções inovadoras que integram design intuitivo e funcionalidade robusta.
+
+Minha abordagem proativa e adaptável me permite enfrentar desafios com confiança, enquanto meu compromisso com a excelência técnica garante a entrega de resultados de alta qualidade. Sou um colaborador eficaz em equipes multidisciplinares, valorizando o bom relacionamento interpessoal e a comunicação clara.
+
+Estou em busca de oportunidades para aplicar minha paixão por resolver problemas e criar experiências digitais impactantes. Vamos construir algo incrível juntos?
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
