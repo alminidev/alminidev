@@ -15,13 +15,15 @@
 
 Mais sobre mim
 
-Com uma sólida base na indústria gráfica, embarquei em uma jornada de desenvolvimento pessoal e profissional na área de programação, com um foco inicial em Front-End. Atualmente, estou expandindo meus conhecimentos através de uma Graduação em Análise e Desenvolvimento de Sistemas e planejo continuar minha formação com uma Pós-graduação em Arquitetura de Software, além de buscar constantemente treinamentos e certificações relevantes.
+Com uma base consolidada na indústria gráfica, iniciei uma transição de carreira para o campo da programação, com foco em Desenvolvimento Front-End. Atualmente, estou expandindo meus conhecimentos por meio de uma Graduação em Análise e Desenvolvimento de Sistemas e tenho planos de aprofundar minhas competências com uma Pós-graduação em Arquitetura de Software. Estou complementando minha formação participando de dois bootcamps intensivos: um em Python Backend com ênfase em Inteligência Artificial e outro em Java Backend.
 
-Como entusiasta da tecnologia e aspirante a desenvolvedor, estou me familiarizando com linguagens e ferramentas como JavaScript, Python, HTML, CSS, Node.js e React.js. Minha experiência em design gráfico me proporciona uma perspectiva única, permitindo-me entender a importância de uma interface bem projetada.
+Como um entusiasta da tecnologia e desenvolvedor em ascensão, estou me familiarizando com linguagens e ferramentas como JavaScript, Python, Java, HTML, CSS, Django, Flask, Spring, Node.js e React.js. Minha experiência prévia em design gráfico me proporciona uma perspectiva única, enfatizando a importância de uma interface de usuário (UI) bem projetada e uma experiência do usuário (UX) agradável.
 
-Minha abordagem é proativa e adaptável, o que me capacita a enfrentar novos desafios com determinação, enquanto meu compromisso com o aprendizado contínuo assegura que estou sempre buscando a excelência técnica. Valorizo o trabalho em equipe e acredito que um bom relacionamento interpessoal e comunicação eficaz são fundamentais para o sucesso em ambientes multidisciplinares.
+Sou proativo e adaptável, qualidades que me permitem enfrentar novos desafios com determinação. Meu compromisso com o aprendizado contínuo me mantém em busca constante de excelência técnica.
 
-Estou em busca de oportunidades que me permitam aplicar minha paixão por aprender, resolver problemas e contribuir para a criação de experiências digitais significativas. Estou ansioso para colaborar e construir algo incrível juntos. Vamos conversar?
+Valorizo o trabalho em equipe e reconheço a importância de um bom relacionamento interpessoal e comunicação eficaz para o sucesso em ambientes multidisciplinares.
+
+Estou em busca de uma vaga de estágio que me permita aplicar minha paixão pelo aprendizado e solução de problemas, contribuindo para a criação de experiências digitais significativas. Estou ansioso para colaborar e construir algo incrível juntos?
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
