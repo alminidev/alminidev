@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá! Sou **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior.
+Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior.
 
 ### Transição de Carreira
 Com uma base consolidada na indústria gráfica, iniciei uma transição de carreira para o campo da programação, com foco em **Desenvolvimento Front-End**. Estou expandindo meus conhecimentos através de uma graduação e tenho planos de aprofundar minhas competências com uma Pós-graduação em **Arquitetura de Software**.
