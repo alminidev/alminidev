@@ -4,9 +4,6 @@ Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. 
 ### Transição de Carreira
 Com uma base consolidada na indústria gráfica, iniciei uma transição de carreira para o campo da programação, com foco em **Desenvolvimento Front-End**. Estou expandindo meus conhecimentos através de uma graduação e tenho planos de aprofundar minhas competências com uma Pós-graduação em **Arquitetura de Software**.
 
-### Objetivo Profissional
-Estou em busca de uma vaga de estágio que me permita aplicar minha paixão pelo aprendizado e solução de problemas, contribuindo para a criação de experiências digitais significativas.
-
 ### Bootcamps e Educação Continuada
 Participo ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
 
@@ -50,6 +47,9 @@ Sou proativo e adaptável, enfrentando novos desafios com determinação. Meu co
 
 ### Trabalho em Equipe
 Valorizo o trabalho em equipe e reconheço a importância de um bom relacionamento interpessoal e comunicação eficaz para o sucesso em ambientes multidisciplinares.
+
+### Objetivo Profissional
+Estou em busca de uma vaga de estágio que me permita aplicar minha paixão pelo aprendizado e solução de problemas, contribuindo para a criação de experiências digitais significativas.
 
 ## Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
