@@ -11,30 +11,39 @@ Participo ativamente de dois bootcamps intensivos: um focado em **Python Backend
 Como desenvolvedor em ascensão, estou me familiarizando com uma variedade de linguagens de programação e ferramentas, incluindo:
 
 #### Linguagens de Programação
-- **JavaScript**
-- **Python**
-- **Java**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Ferramentas e Frameworks
-- **Spring Boot**
-- **Django**
-- **Flask**
-- **Node.js**
-- **React.js**
-- **Angular**
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Controle de Versão e Desenvolvimento
-- **Git**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-#### Ambiente de Desenvolvimento
-- **VSCode**
+#### Ambiente de Desenvolvimento (IDE)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Bancos de Dados
-- **MongoDB**
-- **MySQL**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Design Gráfico e UI/UX
-Minha experiência prévia em design gráfico me proporciona uma perspectiva única, enfatizando a importância de uma **Interface de Usuário (UI)** bem projetada e uma **Experiência do Usuário (UX)** agradável.
+Minha experiência prévia em design gráfico me proporciona uma perspectiva única, enfatizando a importância de uma **Interface de Usuário (UI)** bem projetada e uma **Experiência do Usuário (UX)** agradável.  <p>
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+
+
+
+
+### Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ### Proatividade e Aprendizado Contínuo
 Sou proativo e adaptável, enfrentando novos desafios com determinação. Meu compromisso com o aprendizado contínuo me mantém em busca constante de excelência técnica.
@@ -49,8 +58,11 @@ Estou em busca de uma vaga de estágio que me permita aplicar minha paixão pelo
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almini_miele/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alminidesign/)
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](https://alminidev@gmail.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+989307575)
 
 
 ### Estou ansioso para colaborar e construir algo incrível juntos. Vamos conversar?
+<br>
+<br>
 
 
