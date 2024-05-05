@@ -52,3 +52,5 @@ Estou em busca de uma vaga de estágio que me permita aplicar minha paixão pelo
 
 
 ### Estou ansioso para colaborar e construir algo incrível juntos. Vamos conversar?
+
+
