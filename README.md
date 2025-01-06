@@ -5,7 +5,7 @@ Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. 
 Como Designer Gráfico em transição para Desenvolvimento Front-end, estou iniciando minha jornada no universo do desenvolvimento web, unindo minha experiência em design gráfico com um aprendizado técnico em front-end e back-end. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprendendo tecnologias como HTML, CSS e JavaScript, além de começar a explorar frameworks como React. No back-end, estou adquirindo conhecimentos iniciais em Python, Java, Django e Spring Boot, buscando desenvolver uma visão mais ampla e completa do desenvolvimento web.
 
 ### Bootcamps e Educação Continuada
-Participo ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
+Participei ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
 
 ### Habilidades Técnicas
 Como desenvolvedor em ascensão, estou me familiarizando com uma variedade de linguagens de programação e ferramentas, incluindo:
