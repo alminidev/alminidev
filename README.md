@@ -2,7 +2,8 @@
 Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior em Front-end.
 
 ### Transição de Carreira
-Como Designer Gráfico em transição para Desenvolvimento Front-end, estou iniciando minha jornada no universo do desenvolvimento web, unindo minha experiência em design gráfico com um aprendizado técnico em front-end e back-end. Atualmente, curso Análise e Desenvolvimento de Sistemas e estou aprendendo tecnologias como HTML, CSS e JavaScript, além de começar a explorar frameworks como React. No back-end, estou adquirindo conhecimentos iniciais em Python, Java, Django e Spring Boot, buscando desenvolver uma visão mais ampla e completa do desenvolvimento web.
+Designer Gráfico em transição para Desenvolvimento Front-End, cursando Análise e Desenvolvimento de Sistemas. Tenho conhecimentos em HTML, CSS, JavaScript e frameworks como React, além de explorar o back-end com Python, Java, Django e Spring Boot. Minha experiência no design me trouxe habilidades avançadas em Photoshop, Figma e Adobe XD, com foco em UI/UX, design responsivo e prototipação.
+Estou familiarizado com metodologias ágeis (Scrum, Kanban) e ferramentas como Git e VS Code, e sou comprometido com o aprendizado contínuo. Busco oportunidades para aplicar meu conhecimento técnico e criativo em projetos web funcionais e escaláveis.
 
 ### Bootcamps e Educação Continuada
 Participei ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
