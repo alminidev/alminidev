@@ -2,8 +2,13 @@
 Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior em Front-end.
 
 ### Transição de Carreira
-Designer Gráfico em transição para Desenvolvimento Front-End, cursando Análise e Desenvolvimento de Sistemas. Tenho conhecimentos em HTML, CSS, JavaScript e frameworks como React, além de explorar o back-end com Python, Java, Django e Spring Boot. Minha experiência no design me trouxe habilidades avançadas em Photoshop, Figma e Adobe XD, com foco em UI/UX, design responsivo e prototipação.
-Estou familiarizado com metodologias ágeis (Scrum, Kanban) e ferramentas como Git e VS Code, e sou comprometido com o aprendizado contínuo. Busco oportunidades para aplicar meu conhecimento técnico e criativo em projetos web funcionais e escaláveis.
+"Designer Gráfico em Transição para Desenvolvedor Front-End | Explorando Tecnologias e Criando Interfaces Impactantes"
+
+Estou em transição para a área de Desenvolvimento Front-End, cursando Análise e Desenvolvimento de Sistemas e me aprofundando em HTML, CSS, JavaScript e frameworks como React. Também estou explorando o back-end com Python, Java, Django e Spring Boot, desenvolvendo uma visão abrangente do ciclo de desenvolvimento web.
+
+Minha sólida experiência em design gráfico me trouxe domínio em ferramentas como Photoshop, Figma e Illustrator, permitindo criar interfaces visuais atraentes com foco em UI/UX, design responsivo e prototipação interativa.
+
+Além disso, sou familiarizado com metodologias ágeis (Scrum, Kanban) e ferramentas como Git e VS Code, o que me permite colaborar de forma eficiente em equipes e projetos. Comprometido com o aprendizado contínuo, estou em busca de oportunidades para combinar minha criatividade e habilidades técnicas, contribuindo para projetos web que sejam funcionais, escaláveis e esteticamente impactantes.
 
 ### Bootcamps e Educação Continuada
 Participei ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
