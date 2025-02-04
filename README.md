@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior em Front-end.
+Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou treinee em Front-end.
 
 ### Transição de Carreira
 Sou um profissional com experiência sólida em design gráfico e estou em transição para a área de Desenvolvimento Front-End. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em HTML, CSS, JavaScript e React. Além disso, estou adquirindo conhecimentos em Node.js para compreender melhor o fluxo do desenvolvimento web.
