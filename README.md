@@ -2,13 +2,22 @@
 Olá! Me chamo **Alexandre Mieli Poletini**, também conhecido como **Almini**. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de tecnologia, seja estágio ou posição júnior em Front-end.
 
 ### Transição de Carreira
-"Designer Gráfico em Transição para Desenvolvedor Front-End | Explorando Tecnologias e Criando Interfaces Impactantes"
+Sou um profissional com experiência sólida em design gráfico e estou em transição para a área de Desenvolvimento Front-End. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em HTML, CSS, JavaScript e React. Além disso, estou adquirindo conhecimentos em Node.js para compreender melhor o fluxo do desenvolvimento web.
 
-Estou em transição para a área de Desenvolvimento Front-End, cursando Análise e Desenvolvimento de Sistemas e me aprofundando em HTML, CSS, JavaScript e frameworks como React. Também estou explorando o back-end com Python, Java, Django e Spring Boot, desenvolvendo uma visão abrangente do ciclo de desenvolvimento web.
+Minha trajetória inclui a participação em bootcamps de Java e Python, o que me proporcionou uma visão mais ampla sobre lógica de programação e desenvolvimento. Com uma base sólida em design e experiência nas ferramentas Figma, Photoshop e Illustrator, estou aprimorando a criação de interfaces visuais que equilibram estética e funcionalidade.
 
-Minha sólida experiência em design gráfico me trouxe domínio em ferramentas como Photoshop, Figma e Illustrator, permitindo criar interfaces visuais atraentes com foco em UI/UX, design responsivo e prototipação interativa.
+Estou também desenvolvendo habilidades em Git, versionamento de código e metodologias ágeis como Scrum e Kanban, com o objetivo de trabalhar de forma colaborativa e eficiente em equipes de tecnologia.
 
-Além disso, sou familiarizado com metodologias ágeis (Scrum, Kanban) e ferramentas como Git e VS Code, o que me permite colaborar de forma eficiente em equipes e projetos. Comprometido com o aprendizado contínuo, estou em busca de oportunidades para combinar minha criatividade e habilidades técnicas, contribuindo para projetos web que sejam funcionais, escaláveis e esteticamente impactantes.
+Atualmente estudando e aprimorando:
+
+- Desenvolvimento Front-End: HTML, CSS, JavaScript, React
+- UI/UX Design: Figma, Design Responsivo, Prototipação
+- Noções de Back-End: Node.js, APIs, experiência com Java e Python em bootcamps
+- Ferramentas e Metodologias: Git, Scrum, Kanban
+
+Estou em busca de uma oportunidade de estágio como Desenvolvedor Front-End, onde posso aplicar meus conhecimentos, continuar aprendendo e contribuir para projetos inovadores. Caso não consiga a oportunidade de estágio inicialmente, continuarei desenvolvendo projetos pessoais e trabalhando como freelancer para aprimorar ainda mais minhas habilidades.
+
+Estou aberto a oportunidades de estágio e trainee em desenvolvimento web.
 
 ### Bootcamps e Educação Continuada
 Participei ativamente de dois bootcamps intensivos: um focado em **Python Backend** com ênfase em **Inteligência Artificial**, outro em **Java Backend** e vários cursos e treinamentos.
